@@ -3,7 +3,7 @@
 int main()
 {
 	printf("git test\n");
-	printf("git hello\n");
+	printf("hello world\n");
 	return 0;
 
 }
